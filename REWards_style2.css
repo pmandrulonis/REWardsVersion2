@@ -1,0 +1,57 @@
+
+html * {
+    font-family: freight-text-pro, Georgia, serif;
+    font-style: normal;
+}
+.LogoBlock{
+    background-color: #F1C400;
+}
+.GeneralInfo {
+    text-align:left;
+    margin-left:20px;
+}
+img{
+    height:75px;
+    width:auto;
+    padding: 10px;
+}
+h1 {
+    text-align: left;
+    font-weight:bold;
+}
+body {
+    font-weight: 100;
+    color:#002D72;
+    margin-left:15px;
+    width:100%;
+    text-align: justify;
+}
+
+button {
+    font-family: freight-text-pro, serif;
+    font-style: normal;
+    font-weight: bold;
+    background-color: #002D72;
+    color:#F1C400;
+    width:100%;
+    border-radius: 5px;
+    padding:10px;
+    text-align:left;
+    font-size:25px;
+}
+button:hover{
+    background-color:#F1C400;
+    color:#002D72; 
+    border-color:#F1C400;
+}
+.Map{
+    height:100px;
+    width:200px;
+}
+div {
+    margin-top: 20px;
+}
+.HeroText {
+    margin-left:10px;
+    margin-right:50px;
+}
